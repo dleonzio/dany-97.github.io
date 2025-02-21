@@ -194,7 +194,7 @@ exclude:
   - vendor
   - _news/announcement_*.md
   - _projects/*_project.md
-  - _posts/*_md
+  - _posts/
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/blog.md
