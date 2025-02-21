@@ -53,6 +53,20 @@ ninja.data = [{
           window.open("mailto:%64%61%6E%69%65%6C%65%75%67%6F.%6C%65%6F%6E%7A%69%6F@%70%6F%6C%69%6D%69.%69%74", "_blank");
         },
       },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/37089912697/", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/danieleugo.leonzio", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
