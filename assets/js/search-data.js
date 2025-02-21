@@ -57,7 +57,7 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/37089912697/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/37089912697/", "_blank");
         },
       },{
         id: 'social-linkedin',
