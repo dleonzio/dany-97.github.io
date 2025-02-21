@@ -52,7 +52,6 @@
       description:
         - Teaching assistant for the course of "Lab Experience" course in the M.Sc Telecommunication Engineering.
         - Development of a Forensic tool to analyze JPEG compressed images.
-        -
     - title: Internship
       institution: Onyax S.r.l., Vigevano, Italy
       year: 2024
@@ -64,16 +63,16 @@
       description:
           - Scientific Investigator for projects between Politecnico di Milano and national and international companies.
           - title: Projects
-            contents:
+            description:
               - title: Low frequency extrapolation in seismic data. Project with Eni S.p.A.
-                contents:
+                description:
                   - Development of a Transformer based algorithm in order to extrapolate the missing low frequencies in the shot-gathers data.
               - title: HPMA, project funded by Netherlands Ministry of Defence, collaboration with TNO.
-                contents:
+                description:
                   - Development of a Machine Learning algorithm for detecting arrhythmic heartbeats in pilots operating under high G-force conditions.
 - title: Skills
   type: list
-  contents:
+  description:
     - title: Programming Languages
       value: Python, C, C++, Matlab,
     - title: Frameworks
