@@ -64,7 +64,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/danieleugo.leonzio", "_blank");
+          window.open("https://www.linkedin.com/in/daniele-ugo-leonzio", "_blank");
         },
       },{
         id: 'social-orcid',
