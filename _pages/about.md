@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.polimi.it'> Politecnico di Milano</a>.
-          <a href='https://www.deib.polimi.it/ita/home'>Dipartimento di Elettronica Informazione e Bioingegneria, Politecnico di Milano</a>.
+          <a href='https://www.deib.polimi.it/ita/home'>Dipartimento di Elettronica Informazione e Bioingegneria </a>.
 
 profile:
   align: right
