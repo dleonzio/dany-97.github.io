@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.polimi.it'>Dipartimento di Elettronica Informazione e Bioingegneria, Politecnico di Milano</a>.
+subtitle: <a href='https://www.polimi.it'> Politecnico di Milano</a>.
+          <a href='https://www.deib.polimi.it/ita/home'>Dipartimento di Elettronica Informazione e Bioingegneria, Politecnico di Milano</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: 
     <p> via Giuseppe Ponzio 34/5 </p>
     <p> Milan, Italy </p>
