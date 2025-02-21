@@ -12,7 +12,7 @@ email: danieleugo.leonzio@polimi.it # your email address
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
-# ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: https://ieeexplore.ieee.org/author/37089912697 # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -20,7 +20,7 @@ email: danieleugo.leonzio@polimi.it # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: danieleugo.leonzio # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0002-3217-9952 # your ORCID ID
