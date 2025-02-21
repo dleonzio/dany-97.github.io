@@ -63,7 +63,7 @@
       description:
           - Scientific Investigator for projects between Politecnico di Milano and national and international companies.
           - title: Projects
-            description:
+            contents:
               - "Low frequency extrapolation in seismic data. Project with Eni S.p.A. : Development of a Transformer based algorithm in order to extrapolate the missing low frequencies in the shot-gathers data."
               - "HPMA, project funded by Netherlands Ministry of Defence, collaboration with TNO: Development of a Machine Learning algorithm for detecting arrhythmic heartbeats in pilots operating under high G-force conditions."
 
