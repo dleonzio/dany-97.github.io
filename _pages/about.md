@@ -3,13 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.polimi.it'> Politecnico di Milano</a>.
-          <a href='https://www.deib.polimi.it/ita/home'>Dipartimento di Elettronica Informazione e Bioingegneria </a>.
-
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
+    <p> Dipartimento di Elettronica Informazione e Bioingegneria </p>.
     <p> via Giuseppe Ponzio 34/5 </p>
     <p> Milan, Italy </p>
 
@@ -27,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Passionate researcher with expertise in anomaly detection, deep learning, and multimedia signal processing. 
-Extensive experience in developing cutting-edge algorithms for water leak detection and audio/image analysis. 
-Skilled educator and collaborator, with a proven track record of impactful publications and successful partnerships with industry leaders.
+I am a PhD candidate at Politecnico di Milano, specializing in anomaly detection, multimedia signal processing, and time series analysis. My research focuses on developing machine learning and deep learning algorithms to detect anomalies in complex systems, with applications ranging from infrastructure monitoring to environmental impact assessment.
+With a background in Music and Acoustic Engineering, I integrate signal processing and AI to solve challenging problems in data analysis. Beyond academia, I have collaborated with national and international companies to develop innovative solutions in seismic data processing, biomedical signal analysis, and water leak detection.
+I am passionate about applying cutting-edge technology to real-world challenges, ensuring robust and generalizable models that perform reliably across diverse datasets.
+
+Feel free to connect with me to discuss research, collaborations, or new ideas!
