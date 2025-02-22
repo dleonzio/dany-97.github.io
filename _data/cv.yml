@@ -11,29 +11,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Information Technology
+    - title: PhD
       institution: Politecnico di Milano, Milan, Italy
       year: 2021-2025
       description:
-        - "*Research field:* Anomaly detection, Machine Learning, Deep Learning and Signal Processing techniques"
-        - title: "*Thesis title:* Data Driven Techniques for Leak Detection in Water Distribution Networks"
+        - Phd in Information Technology.
+        - title: "Thesis title: Data Driven Techniques for Leak Detection in Water Distribution Networks"
           contents:
-            - Developed novel data-driven approaches for leak detection and localization in water distribution networks
-    - title: MSc in Music and Acoustic Engineering
+            - Developed novel data-driven approaches for leak detection and localization in water distribution networks.
+            - Anomaly detection, Machine Learning, Deep Learning and Signal Processing techniques.
+    - title: MSc
       institution: Politecnico di Milano, Milan, Italy
       year: 2019-2021
       description:
-        - "*Coursework*: Multimedia Signal Processing, Machine Learning, Deep Learning, Sound Analysis Synthesis and Processing"
-        - "*GPA:* 28.9/30, 110/110 cum laude."
-        - title: "*Thesis title*: Audio splicing detection and localization based on recording device cues"
+        - MSc in Music and Acoustic Engineering.
+        - title: "Thesis title: Audio splicing detection and localization based on recording device cues."
           contents:
-            - Developed a novel approach for audio splicing detection and localization
+            - Developed a novel approach for audio splicing detection and localization.
+            - Machine Learning, Deep Learning and Signal Processing techniques.
 
-    - title: BSc in Electronic Engineering
+    - title: BSc
       institution: Politecnico di Milano, Milan, Italy
       year: 2016-2019
       description:
-          - "*Coursework*: Circuit Theory, Analog and Digital Electronics"
+          - BSc in Electronic Engineering.
 
 - title: Experience
   type: time_table
@@ -63,8 +64,8 @@
           - Scientific Investigator for projects between Politecnico di Milano and national and international companies.
           - title: Projects
             description:
-              - "**Low frequency extrapolation in seismic data**, project with Eni S.p.A. Development of a Transformer based algorithm in order to extrapolate the missing low frequencies in the shot-gathers data."
-              - "**HPMA**, project funded by Netherlands Ministry of Defence, collaboration with TNO. Development of a Machine Learning algorithm for detecting arrhythmic heartbeats in pilots operating under high G-force conditions."
+              - "Low frequency extrapolation in seismic data. Project with Eni S.p.A. : Development of a Transformer based algorithm in order to extrapolate the missing low frequencies in the shot-gathers data."
+              - "HPMA, project funded by Netherlands Ministry of Defence, collaboration with TNO: Development of a Machine Learning algorithm for detecting arrhythmic heartbeats in pilots operating under high G-force conditions."
 
 - title: Skills
   type: map
