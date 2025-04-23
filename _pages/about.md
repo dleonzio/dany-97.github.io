@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at Politecnico di Milano, specializing in anomaly detection, multimedia signal processing, and time series analysis. My research focuses on developing machine learning and deep learning algorithms to detect anomalies in complex systems, with applications ranging from infrastructure monitoring to environmental impact assessment.
+I am a Post-doc Researcher at Politecnico di Milano, specializing in anomaly detection, multimedia signal processing, and time series analysis. My research focuses on developing machine learning and deep learning algorithms to detect anomalies in complex systems, with applications ranging from infrastructure monitoring to environmental impact assessment.
 With a background in Music and Acoustic Engineering, I integrate signal processing and AI to solve challenging problems in data analysis. Beyond academia, I have collaborated with national and international companies to develop innovative solutions in seismic data processing, biomedical signal analysis, and water leak detection.
 I am passionate about applying cutting-edge technology to real-world challenges, ensuring robust and generalizable models that perform reliably across diverse datasets.
 
