@@ -38,6 +38,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Post-doc Researcher
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2025 - now
+      description:
+          - Research fields: Anomaly detection, Deep Learning, Multimedia Signal Processing
+
     - title: Professor
       institution: CPM Music Institute, Milan, Italy
       year: 2022 - 2025
